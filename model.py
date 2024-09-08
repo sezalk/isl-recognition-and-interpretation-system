@@ -38,8 +38,7 @@ def exrtractData(result) -> list:
                 dataRight.append(y)
 
     if len(dataLeft) == 0 and len(dataRight) == 42:
-        # i.e empty toh zeros sei bhar do
-        # 21x 21 y
+        
         # print('inNoLeft')
         dataLeft = [0]*42
     if len(dataRight) == 0 and len(dataLeft) == 42:
@@ -83,7 +82,7 @@ while cap.isOpened():
     referenceImg = cv2.imread('col.png')
     cv2.imshow('Reference', referenceImg)
 
-    # Break gracefully
+    # Break 
     if cv2.waitKey(2) & 0xFF == ord('q'):
         break
 
