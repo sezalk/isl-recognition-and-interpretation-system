@@ -56,11 +56,11 @@ The project consists of the following components:
 
 ![image](https://github.com/user-attachments/assets/b448dcf2-a7ba-4042-a55d-db775f665a6c)
 
-##Pipeline
+## Pipeline
 
 ![image](https://github.com/user-attachments/assets/e69ef973-588d-426f-b816-7aff5a21e724)
 
-#input/output
+## Input/Output
 
 ![image](https://github.com/user-attachments/assets/eaa25003-3ba3-4fac-8297-3ad6065beb3f)
 
