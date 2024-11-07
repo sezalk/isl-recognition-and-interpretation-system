@@ -48,6 +48,21 @@ The project consists of the following components:
 
 3. Press 'q' to exit the application.
 
-## Contributing
+## Methodology
 
-Contributions are welcome! Please feel free to submit issues or pull requests.
+![image](https://github.com/user-attachments/assets/b717a1c1-aff2-417d-a1dd-c2ca34e8ee11)
+
+## Dataset
+
+![image](https://github.com/user-attachments/assets/b448dcf2-a7ba-4042-a55d-db775f665a6c)
+
+##Pipeline
+
+![image](https://github.com/user-attachments/assets/e69ef973-588d-426f-b816-7aff5a21e724)
+
+#input/output
+
+![image](https://github.com/user-attachments/assets/eaa25003-3ba3-4fac-8297-3ad6065beb3f)
+
+
+
